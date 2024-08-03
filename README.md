@@ -45,11 +45,16 @@ Upon running the program, the K-Compiler will output the generated tokens, synta
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This code is protected under an "All Rights Reserved" license. You must obtain explicit permission from the copyright holder before using, distributing, or modifying this work.
 
-## Contributing
-Contributions are welcome! Please fork this repository and submit a pull request for review.
+For permissions, please contact:
 
 ## Contact
 For any queries or suggestions, feel free to reach out:
 - **Email:** sa.abdullahshah.2001@gmail.com
 - **LinkedIn:** [Syed Abdullah Shah](https://www.linkedin.com/in/syed-abdullah-shah-4018a5176)
+
+## Contributing
+Contributions are welcome! Please fork this repository and submit a pull request for review.
+
+
